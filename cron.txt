@@ -1,1 +1,3 @@
 kerjaan cron
+
+cron 1
